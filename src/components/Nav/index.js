@@ -1,7 +1,8 @@
 import React from 'react';
 import { capitalizeFirstLetter } from "../../utils/helpers";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from '../Header';
+// import Header from '../Header';
+// import About from '../About';
 
 function Nav() {
   const categories = [
@@ -19,17 +20,18 @@ function Nav() {
   }
 
   return (
-    <Header>
-    <nav className="navbar navbar-expand-lg bg-light">
+  
+    <nav className="navbar navbar-expand-lg bg-light display-5">
       <div className="container-fluid">
-       <a className="navbar-brand" href="About">Keeve</a>
+       <a className="navbar-brand " href="About">Keeve</a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="Home">Home</a>
+
+              <a className="nav-link active" aria-current="page" href="About">Home</a>
             </li>
               {categories.map((category) => (
                       <li className="nav-link" key={category.name} >
@@ -42,7 +44,7 @@ function Nav() {
         </div>
       </div>
     </nav>
-  </Header>
+
 
     // <header>
     //   <header>

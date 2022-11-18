@@ -1,12 +1,13 @@
 import React from 'react';
-import Nav from './components/Nav';
+import Nav from "../Nav";
 
-function Header() {
-  return (
-    <header className='header'>
-      <Nav></Nav>
-    </header>
-  );
-};
 
-export default Header;
+function Header () {
+    return (
+        <div className='me-auto'>
+            <Nav></Nav>
+        </div>
+    )
+}
+
+export default Header

@@ -1,17 +1,21 @@
 import React from 'react';
 import About from './components/About';
-import Nav from './components/Nav';
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+// import Nav from './components/Nav';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
 
   return (
-    <div>  
+    <div>
+      <Header></Header>
+      {/* <Nav></Nav> */}
       <main>
-      <Nav></Nav>
-        <About></About>
+      <About>
+        
+      </About>
       </main>
+      <Footer></Footer>
     </div>
   );
 }
