@@ -32,7 +32,7 @@ This will run the server and launch the react application in your browser.
 
 
 ## Usage
-This application is fully functional and can be [viewed here!](https://giglr.herokuapp.com/). Giglr is hosted by Heroku, therefore we advise that users give the page a moment to load. Once loaded users will be brought to the home page. In order to view and make post the user will need to sign-up or login using the link in the upper right hand corner of the webpage. Once logged in the user will be able to make uploads using the upload link and be able to view their own uploads from the dashboard link. The user will also be able to view their posts from the homepage as well as the posts of other users and will also be able to vote and comment on posts. 
+
 
 ## Technologies Used:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
