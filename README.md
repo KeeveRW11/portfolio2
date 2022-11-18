@@ -1,7 +1,7 @@
-# contact-card
+# React Portfolio 
 
 
-## toBeHonest
+## Portfolio
 
 ## Description
 This App is an app made using react native. It is used to display my first attempt at a stand alone Portfolio Page. It is a single page application.
