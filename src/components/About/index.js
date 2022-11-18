@@ -1,5 +1,4 @@
 import coverImage from "../../assets/cover/cover-image.PNG";
-
 function About() {
     return (
         <section >
