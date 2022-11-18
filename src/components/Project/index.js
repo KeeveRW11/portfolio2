@@ -18,23 +18,15 @@ function Portfolio() {
             <p>{currentCategory.description}</p>
             <Carousel>
             <Carousel.Item>
-                <img
-                className="d-block w-100 img-fluid"
-                src={photo}
-                alt="Giglr"
-                />
+                <img className="d-block w-100 img-fluid"src={photo}alt="Giglr"/>
                 <Carousel.Caption>
-                <h3>First slide label</h3>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <h3>Getting Gigly with it</h3>
+                <p>Giglr is a site that uses CRUD operations to allow users to interact with other user post.</p>
+                {/* <a href="https://github.com/KeeveRW11/giglr"</a> */}
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
-                <img
-                className="d-block w-100"
-                src={photo2}
-                alt="Second slide"
-                />
-
+                <img className="d-block w-100" src={photo2} alt="Second slide"/>
                 <Carousel.Caption>
                 <h3>Second slide label</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
