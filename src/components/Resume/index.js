@@ -22,7 +22,6 @@ function Resume() {
             <a href={resume} download className="d-flex justify-content-center">
               <img src={fileIcon} className="card-img-top " style={{ width: "25%" }} alt="cover" />
             </a>
-
           </div>  
          <div>
             <div className="card rounded mx-auto d-block" style={{width: "100%"}}>
