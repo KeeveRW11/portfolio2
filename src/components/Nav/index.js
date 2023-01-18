@@ -9,9 +9,10 @@ function Nav(props) {
   const categories = [ 'About', 'Portfolio', 'Contact', 'Resume' ];
 
   return (
+    <div className="d-flex justify-content-center">
     <nav className="navbar navbar-expand-lg bg-light display-5">
       <div className="container-fluid">
-       <a className="navbar-brand nav-link active " href="About">Keeve</a>
+       {/* <a className="navbar-brand nav-link active " href="About">Keeve</a> */}
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
@@ -30,11 +31,11 @@ function Nav(props) {
               </a>
             </li>
           ))}
-
          </ul>
         </div>
       </div>
     </nav>
+    </div>
   );
 }
 export default Nav;

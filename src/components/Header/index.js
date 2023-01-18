@@ -21,7 +21,8 @@ function Header () {
           default:
             return <About />;
         }
-      };
+    };
+    
     return (
         <div className='me-auto sticky-top'>
              <Nav        
