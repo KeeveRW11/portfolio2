@@ -6,8 +6,8 @@ import lkIcon from "../../assets/icons/linkedin.png"
 
 function Footer () {
     return (
-        <div className='container'>
-        <div className="card justify-content-center me-auto sticky-top">
+        <div className='container sticky-bottom'>
+        <div className="card justify-content-center me-auto ">
             <div className="d-flex justify-content-center">
                 <a href="https://github.com/KeeveRW11" download className="d-flex justify-content-center">
                     <img src={ghIcon} className="card-img-top " style={{ width: "25%" }} alt="cover" />

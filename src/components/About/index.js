@@ -10,9 +10,11 @@ function About() {
             <div className="container">
                 <article>
                     <p>
-                    Hi, Im Keeve and I'm learning Fullstack web development. I have always had an interest in technology and remember at the age of 13 pulling down computers and building them back up. 
-                    In the age of information technology I have always been interested in knowing how beautiful apps are made. Theres more fun in the creation than the consumption of the content these
-                    provide. And i want to have a skill that will always be in need as long as we don't go back to the dark ages. This is my first attempt at a react app.
+                    Hi, I'm Keeve and I am learning Fullstack Web development. I say I am learning because this is a continuous process. 
+                    I have always had an interest in technology and I remember at the age of 13 pulling down computers and building them back up. 
+                    In the age of information technology I have always been interested in knowing how beautiful apps are made. 
+                    Theres more fun in the creation than the consumption of the content these provide. 
+                    The times are changing fast and I want to have skills that will be in need and in the near future.
                     </p>
                 </article>
             </div>
