@@ -1,22 +1,34 @@
 {
   "files": {
     "main.css": "/portfolio2/static/css/main.85768c17.css",
-    "main.js": "/portfolio2/static/js/main.5db893ad.js",
+    "main.js": "/portfolio2/static/js/main.8c59b5c0.js",
     "static/js/787.1297335f.chunk.js": "/portfolio2/static/js/787.1297335f.chunk.js",
+    "static/media/bootstrap.png": "/portfolio2/static/media/bootstrap.ef9e2efdaee2bcbe10e9.png",
+    "static/media/javascript.png": "/portfolio2/static/media/javascript.de737969ad89236b1288.png",
+    "static/media/github.png": "/portfolio2/static/media/github.71093c51477b4d9be20c.png",
     "static/media/anightin.png": "/portfolio2/static/media/anightin.0297638f7dd1687b3fdb.png",
-    "static/media/pizzahunt.png": "/portfolio2/static/media/pizzahunt.59fc38340edbfc804a82.png",
-    "static/media/giglr.png": "/portfolio2/static/media/giglr.eb6772343e1b3d6b7bb7.png",
-    "static/media/zookeeper.png": "/portfolio2/static/media/zookeeper.a7b35e8722589c22ed28.png",
-    "static/media/cover-image.PNG": "/portfolio2/static/media/cover-image.19d6f3a40bf82a477b86.PNG",
-    "static/media/runbuddy.png": "/portfolio2/static/media/runbuddy.1ef2e1f1cc31de56ebcd.png",
-    "static/media/letstakenote.png": "/portfolio2/static/media/letstakenote.925037d4b446be08a9c9.png",
+    "static/media/css3.png": "/portfolio2/static/media/css3.5d1e9b1f4ab7f72ce7bc.png",
+    "static/media/html.png": "/portfolio2/static/media/html.edb334b841dbb79cce57.png",
+    "static/media/react.png": "/portfolio2/static/media/react.86f95cd4e7c2026cf530.png",
+    "static/media/runbuddy.png": "/portfolio2/static/media/runbuddy.d57d6e7a4446384060d8.png",
+    "static/media/travotel.png": "/portfolio2/static/media/travotel.1993106364b18c7c27b7.png",
+    "static/media/giglrrr.png": "/portfolio2/static/media/giglrrr.887f66ee2af14bfea8df.png",
+    "static/media/cover-image2.PNG": "/portfolio2/static/media/cover-image2.abb5d2ada9f212e0af6b.PNG",
+    "static/media/letstakenote.png": "/portfolio2/static/media/letstakenote.7e1b383c74b6591a7705.png",
+    "static/media/mongodb.png": "/portfolio2/static/media/mongodb.cd6a10658d1549570fd0.png",
+    "static/media/Keeve_Resume_FSD.pdf": "/portfolio2/static/media/Keeve_Resume_FSD.1b63c7460d886bec1d93.pdf",
+    "static/media/mysql.png": "/portfolio2/static/media/mysql.b18092c6c25d540eeb74.png",
+    "static/media/file.png": "/portfolio2/static/media/file.894dbba6b30f4fa9db1f.png",
+    "static/media/express.png": "/portfolio2/static/media/express.70ef50a246c3bfa93f0b.png",
+    "static/media/nodejs.png": "/portfolio2/static/media/nodejs.b508473ad71a31ce2fae.png",
+    "static/media/git.png": "/portfolio2/static/media/git.1c419e1ae22d22f85ef9.png",
     "index.html": "/portfolio2/index.html",
     "main.85768c17.css.map": "/portfolio2/static/css/main.85768c17.css.map",
-    "main.5db893ad.js.map": "/portfolio2/static/js/main.5db893ad.js.map",
+    "main.8c59b5c0.js.map": "/portfolio2/static/js/main.8c59b5c0.js.map",
     "787.1297335f.chunk.js.map": "/portfolio2/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.5db893ad.js"
+    "static/js/main.8c59b5c0.js"
   ]
 }
